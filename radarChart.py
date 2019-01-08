@@ -2,11 +2,12 @@
 """                                                                        """
 """                              Radar Chart                               """
 """              Plot a radar chart from a data file using plotly          """
-"""                             @author: Raneem                            """
+"""                         @author: Raneem Qaddoura                       """
+"""   @email: rqaddoura@philadelphia.edu.jo, raneem.qaddoura@gmail.com     """
 """                                 v1.0                                   """
 """                                                                        """
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-# RadarChartPlotly
+# Radar Chart Plotly
 # Plot a radar chart from a data file using plotly
 # The CSV file is of a single measure for the performace of each dataset against several algorithms
 # Columns in the CSV file represent data sets. 
